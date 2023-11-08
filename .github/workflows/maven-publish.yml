@@ -2,8 +2,8 @@
 name: Maven Package
 
 on:
-  release:
-    types: [created]
+  push:
+    branches: [ dev ]
 
 jobs:
   build:
