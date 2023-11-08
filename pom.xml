@@ -4,7 +4,7 @@
 
   <groupId>ski.iko</groupId>
   <artifactId>java-struct</artifactId>
-  <version>dev</version>
+  <version>release</version>
   <packaging>pom</packaging>
 
   <name>java-struct</name>
